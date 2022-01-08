@@ -10,6 +10,11 @@
 
 <body>
     <h1> Hallo Kawan </h1>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+        <li>Tiga</li>
+    </ul>
 </body>
 
 </html>
